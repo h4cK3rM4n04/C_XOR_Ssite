@@ -1,0 +1,34 @@
+body	{
+	background-color: darkblue;
+	background-image: url('../img/images.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	overflow-x: hidden;
+}
+
+h1	{
+	color: red;
+	font-family: cursive, sans-serif;
+	background-color:grey;
+	text-align: center;
+	font-family: Old English Text MT;
+}
+
+p	{
+	margin-left: 94px;
+	color: whitesmoke;
+}
+
+input[name="TEXTE"]	{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+input[name="cle"]	{
+	width: 100px;
+}
+
+input.submit-button	{
+	width: 100px;
+}
